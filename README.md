@@ -4,13 +4,12 @@
 
   <a href = "mailto:decode1001101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-de-deus-conceicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+  ![Ashutosh's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user={gustav0dedeus}&theme={dracula})
   
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustav0dedeus&bg_color=22272e&color=ffffff&line=ff0038&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user={gustav0dedeus}&theme={dark})
-
 <div style="display: flex; ">
    <div style="display: inline_block">
    <h2>Conhecimento em</h2>
