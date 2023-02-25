@@ -1,4 +1,4 @@
-<h2 align="center"> Olá meu nome é Gustavo de Deus,desenvolvedor full-stack</h2>
+<h2 align="center"> Olá meu nome é Gustavo de Deus, desenvolvedor full-stack</h2>
 
 <div align="center">
 
