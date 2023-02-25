@@ -9,6 +9,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustav0dedeus&bg_color=22272e&color=ffffff&line=ff0038&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-streak-stats.herokuapp.com/?user={gustav0dedeus}&theme={dark})
+
 <div style="display: flex; ">
    <div style="display: inline_block">
    <h2>Conhecimento em</h2>
