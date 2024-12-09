@@ -2,8 +2,6 @@
 
 <h3 align="left">Estudante de Análise e Desenvolvimento de Sistemas 🎓</h3>
 
-<img  align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=315lz3huvaryxaqn4dd6u3mf3tli&count=5&unique=true" alt="Spotify recently played"  />
-
 ###
 
 <h4 align="left">Sobre mim 🚀</h4>
