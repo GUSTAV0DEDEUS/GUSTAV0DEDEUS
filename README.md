@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=typescript,python,java,dart,linux,git,aws)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=typescript,python,java,dart,linux,aws)
 
 </div>
 
@@ -16,19 +16,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-de-deus-conceicao/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/decode0001/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:gustavodedeusconceicao@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ---
 
-<h4 align="left">Frameworks e Libs</h4>
+<h4 align="left">Frameworks and Libs</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-<h4 align="left">Ferramentas</h4>
+<h4 align="left">Tools</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="react logo"  />
@@ -81,6 +81,8 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="github logo"  />
 </div>
 
 ---
