@@ -1,91 +1,65 @@
-<h1 align="left">Olá, eu sou Gustavo de Deus Conceição 👋</h1>
-
-<h3 align="left">Estudante de Análise e Desenvolvimento de Sistemas 🎓</h3>
-
-###
-
-<h4 align="left">Sobre mim 🚀</h4>
-
-<p align="justify">
-    Olá, sou Gustavo, um desenvolvedor apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor Full Stack, buscando constantemente aprender e aplicar novas técnicas para criar soluções inovadoras. Participei de projetos sediados em empresas como HP e Facebook. Cursei o ensino médio técnico na Etec de Análise e Desenvolvimento de Sistemas e atualmente estou cursando, à tarde, Análise e Desenvolvimento de Sistemas na Fatec de Carapicuíba.
-</p>
+# Hi there! I'm Gustavo de Deus 👋
 
 
-<div align="left">
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=typescript,python,java,dart,linux,git,aws)](https://skillicons.dev)
+
+</div>
+
+### About Me  
+🎓 **Education**: Degree in Systems Analysis and Development from Fatec Carapicuíba, with a technical background in Systems Analysis and Development from Etec de Carapicuíba.  
+💻 **Experience**: Academic and professional experience with technologies such as Java, JavaScript, Python, Dart, SQL and NoSQL databases, along with expertise in cloud computing and containerization.  
+📚 **Projects**: Participated in a paid mentoring project, developing a solution for academic material management and monitoring. Additionally, I completed a supervised internship where I automated CRM processes using Python and developed solutions with React and FastAPI.  
+🌱 **Currently Learning**: Enhancing my front-end and back-end development skills, focusing on React, FastAPI, and Spring Boot.  
+💡 **Interests**: Systems development and data analysis.  
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-de-deus-conceicao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@deCode001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/decode0001/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:decode1001101@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:gustavodedeusconceicao@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
   </a>
 </div>
 
-###
-
-<h4 align="left">Linguagens</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-
-###
+---
 
 <h4 align="left">Frameworks e Libs</h4>
 
-###
-
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-
-###
 
 <h4 align="left">Ferramentas</h4>
 
-###
-
 <div align="left">
-  <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -102,8 +76,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="github logo"  />
 </div>
+
+---
 
 ###
 
@@ -117,5 +97,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GUSTAV0DEDEUS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
